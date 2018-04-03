@@ -1,0 +1,27 @@
+C:\Users\Joil\Documents\Visual Studio 2013\Projects\SKALAUFMS_PRIEM\CryptoSkala\bin\Debug\CryptoSkala.dll
+C:\Users\Joil\Documents\Visual Studio 2013\Projects\SKALAUFMS_PRIEM\CryptoSkala\bin\Debug\CryptoSkala.pdb
+C:\Users\Joil\Documents\Visual Studio 2013\Projects\SKALAUFMS_PRIEM\CryptoSkala\obj\Debug\CryptoSkala.dll
+C:\Users\Joil\Documents\Visual Studio 2013\Projects\SKALAUFMS_PRIEM\CryptoSkala\obj\Debug\CryptoSkala.pdb
+C:\Users\Joil\Documents\Visual Studio 2013\Projects\SKALAUFMS_PRIEM\CryptoSkala\bin\Debug\CryptoPro.Sharpei.Base.dll
+C:\Users\Joil\Documents\Visual Studio 2013\Projects\SKALAUFMS_PRIEM\CryptoSkala\bin\Debug\CryptoPro.Sharpei.Xml.dll
+C:\Users\Joil\Documents\Visual Studio 2013\Projects\SKALAUFMS_PRIEM\CryptoSkala\obj\Debug\CryptoSkala.csprojResolveAssemblyReference.cache
+C:\PROJECTS\SKALAUFMS_PRIEM\CryptoSkala\bin\Debug\CryptoSkala.dll
+C:\PROJECTS\SKALAUFMS_PRIEM\CryptoSkala\bin\Debug\CryptoSkala.pdb
+C:\PROJECTS\SKALAUFMS_PRIEM\CryptoSkala\bin\Debug\CryptoPro.Sharpei.Base.dll
+C:\PROJECTS\SKALAUFMS_PRIEM\CryptoSkala\bin\Debug\CryptoPro.Sharpei.Xml.dll
+C:\PROJECTS\SKALAUFMS_PRIEM\CryptoSkala\obj\Debug\CryptoSkala.dll
+C:\PROJECTS\SKALAUFMS_PRIEM\CryptoSkala\obj\Debug\CryptoSkala.pdb
+C:\PROJECTS\SKALAUFMS_PRIEM\CryptoSkala\obj\Debug\CryptoSkala.csprojResolveAssemblyReference.cache
+E:\PROJECTS\SKALAUFMS_PRIEM\CryptoSkala\bin\Debug\CryptoSkala.dll
+E:\PROJECTS\SKALAUFMS_PRIEM\CryptoSkala\bin\Debug\CryptoSkala.pdb
+E:\PROJECTS\SKALAUFMS_PRIEM\CryptoSkala\bin\Debug\CryptoPro.Sharpei.Base.dll
+E:\PROJECTS\SKALAUFMS_PRIEM\CryptoSkala\bin\Debug\CryptoPro.Sharpei.Xml.dll
+E:\PROJECTS\SKALAUFMS_PRIEM\CryptoSkala\obj\Debug\CryptoSkala.dll
+E:\PROJECTS\SKALAUFMS_PRIEM\CryptoSkala\obj\Debug\CryptoSkala.pdb
+E:\VimoveService\Service\CryptoSkala\bin\Debug\CryptoSkala.dll
+E:\VimoveService\Service\CryptoSkala\bin\Debug\CryptoSkala.pdb
+E:\VimoveService\Service\CryptoSkala\bin\Debug\CryptoPro.Sharpei.Base.dll
+E:\VimoveService\Service\CryptoSkala\bin\Debug\CryptoPro.Sharpei.Xml.dll
+E:\VimoveService\Service\CryptoSkala\obj\Debug\CryptoSkala.dll
+E:\VimoveService\Service\CryptoSkala\obj\Debug\CryptoSkala.pdb
+E:\VimoveService\Service\CryptoSkala\obj\Debug\CryptoSkala.csprojResolveAssemblyReference.cache

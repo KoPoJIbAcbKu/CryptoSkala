@@ -1,0 +1,4 @@
+C:\Users\Joil\Documents\Visual Studio 2013\Projects\SKALAUFMS_PRIEM\CryptoSkala\bin\x86\Release\CryptoSkala.dll
+C:\Users\Joil\Documents\Visual Studio 2013\Projects\SKALAUFMS_PRIEM\CryptoSkala\bin\x86\Release\CryptoSkala.pdb
+C:\Users\Joil\Documents\Visual Studio 2013\Projects\SKALAUFMS_PRIEM\CryptoSkala\obj\x86\Release\CryptoSkala.dll
+C:\Users\Joil\Documents\Visual Studio 2013\Projects\SKALAUFMS_PRIEM\CryptoSkala\obj\x86\Release\CryptoSkala.pdb

@@ -1,0 +1,5 @@
+E:\VimoveService\Service\CryptoSkala\bin\AllR\CryptoSkala.dll
+E:\VimoveService\Service\CryptoSkala\bin\AllR\CryptoPro.Sharpei.Base.dll
+E:\VimoveService\Service\CryptoSkala\bin\AllR\CryptoPro.Sharpei.Xml.dll
+E:\VimoveService\Service\CryptoSkala\obj\AllR\CryptoSkala.dll
+E:\VimoveService\Service\CryptoSkala\obj\AllR\CryptoSkala.csprojResolveAssemblyReference.cache
